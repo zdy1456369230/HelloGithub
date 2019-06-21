@@ -8,4 +8,6 @@ int main()
     std::cout << "Hello Github!\n";
 
 	std::cout << "This is a repo!\n";
+
+	std::cout << "This is a commit!\n";
 }
